@@ -1,0 +1,34 @@
+body
+{
+	margin: 0;
+	font-family: Arial, sans-serif;
+}
+
+Header
+{
+	background-color: #e6ccaa;
+	color: #404040;
+	width: 100%;
+	overflow: hidden;
+	padding: 20px 10px;
+	text-align: center;
+}
+
+.top
+{
+	height: 3vh;
+	text-align: center;
+}
+
+.bottom
+{
+	height: 200vh;
+	text-align: center;
+}
+
+.col
+{
+	float: left;
+	width: 33.33%;
+	text-align: center;
+}
